@@ -67,3 +67,4 @@ node_modules/
 
 # dataconnect generated files
 .dataconnect
+functions/app/firebase-adminsdk-.json
